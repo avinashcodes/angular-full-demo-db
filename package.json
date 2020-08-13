@@ -1,0 +1,11 @@
+{
+  "name": "angular-demo-full-db",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "json-server db.json --watch --delay 2000"
+  },
+  "private": true,
+  "dependencies": {
+    "json-server": "latest"
+  }
+}
