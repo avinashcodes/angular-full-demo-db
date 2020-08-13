@@ -3,5 +3,5 @@
 ## Steps to run 
 
 * Install nodejs 
-* Install dependencies `npm install`
+* Install dependencies using `npm install`
 * Run the server using `npm run start`
